@@ -1,8 +1,6 @@
-The Name of the project is “Banking analytics” and it is under the domain ‘Finance’’.
-
-Banking Analytics works with people to help them reach their financial objectives. Its clients include governments, small and middle-sized enterprises, individuals, and big organizations. In addition to banking, we also provide investment management, and other financial and risk management services and products. 
- 
-The aim of the project is to analyze the growth that the bank achieved in given years according to the KPI’S.
+•	Analyzed loan data to identify trends and fluctuations in loan amounts.
+•	Compared payment behaviors between verified and non-verified loans, providing insights into growth opportunities and areas needing attention.
+•	Developed comprehensive Tableau workbooks with data blending, joins, filters, sets, calculation fields, Dax and parameters to deliver actionable insights for strategic decision-making.
 
 PROJECT overviEw
 (1). Year wise loan amount Stats.
